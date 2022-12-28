@@ -1,2 +1,0 @@
-# phanigit
-practice git commands
